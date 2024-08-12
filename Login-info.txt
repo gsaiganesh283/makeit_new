@@ -1,0 +1,23 @@
+
+================= Client Login =======================
+
+username: saiganesh
+password: 05dec2002
+
+username: testuser1
+password: testpassword1
+
+username: testuser2
+password: testpassword2
+
+=======================================================
+
+================= AI Login =======================
+
+username: testuser1
+password: testpassword1
+
+username: testuser2
+password: testpassword2
+
+==================================================
